@@ -274,6 +274,7 @@ body {
 /* ---------------------------MAIN-------------------------- */
 /* ---------------------------HERO------------------------- */
 .hero-section {
+  min-width: 290px;
   max-width: 428px;
   margin-left: auto;
   margin-right: auto;
@@ -297,8 +298,7 @@ body {
 
 .hero-title {
   max-width: 320px;
-  margin: 0 auto;
-  margin-bottom: 72px;
+  margin: 0 auto 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -417,6 +417,7 @@ body {
 /* ------------FOOTER------------- */
 
 .footer {
+  min-width: 290px;
   padding-top: 96px;
   padding-bottom: 96px;
   background: var(--hero-background-color, #2e2f42);
@@ -510,7 +511,7 @@ body {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 24px 8px 24px;
+  padding: 8px 24px;
   font-weight: 500;
 }
 
