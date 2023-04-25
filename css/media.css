@@ -213,7 +213,6 @@
 
   .filter-menu-list {
     flex-wrap: nowrap;
-    column-gap: 24px;
     row-gap: unset;
 
     justify-content: center;
