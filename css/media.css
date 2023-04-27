@@ -90,6 +90,10 @@
     max-width: 766px;
   }
 
+  .header-logo {
+    margin-right: 76px;
+  }
+
   .menu-open-btn {
     display: none;
   }

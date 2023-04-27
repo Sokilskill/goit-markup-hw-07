@@ -188,7 +188,8 @@ body {
 }
 
 .header-logo {
-  margin-right: 76px;
+  display: block;
+  padding: 24px 0 23px;
 }
 
 .header-logo-studio {
