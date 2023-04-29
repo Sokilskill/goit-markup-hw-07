@@ -71,7 +71,7 @@ body {
 
 .container {
   max-width: 428px;
-  min-width: 266px;
+  min-width: 290px;
   padding: 0 15px;
 
   margin-left: auto;
@@ -163,6 +163,7 @@ body {
 }
 
 .section {
+  min-width: 290px;
   padding-top: 96px;
   padding-bottom: 96px;
 }
